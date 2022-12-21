@@ -1,2 +1,2 @@
 # Selenium_stepik
-Simple test case added
+Simple tests case added
